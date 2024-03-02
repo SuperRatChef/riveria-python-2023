@@ -1,2 +1,0 @@
-nimi: Ohjelmoinnin jatkokurssi
-laajuus opintopisteina: 5

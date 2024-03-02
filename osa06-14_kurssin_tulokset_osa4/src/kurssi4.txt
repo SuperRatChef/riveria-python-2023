@@ -1,2 +1,0 @@
-nimi: Tietokoneen toiminnan perusteet
-laajuus opintopisteina: 2

@@ -1,2 +1,0 @@
-nimi: Tietorakenteet ja algoritmit
-laajuus opintopisteina: 10
